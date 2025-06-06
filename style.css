@@ -15,7 +15,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #2d7c31; /* Cor verde campo */
+    background-color: #2a7d3f; /* Cor verde campo */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -79,7 +79,7 @@ header nav ul li a:hover {
 
 .tech-card {
     display: inline-block;
-    width: 30%;
+    width: 45%;
     background-color: white;
     margin: 20px 10px;
     border-radius: 10px;
@@ -100,7 +100,7 @@ header nav ul li a:hover {
 
 .tech-info h3 {
     font-size: 1.5rem;
-    color: #2d7c31;
+    color: #2a7d3f;
     margin-bottom: 10px;
 }
 
@@ -126,38 +126,9 @@ header nav ul li a:hover {
     color: #555;
 }
 
-.contact-section form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.contact-section input, .contact-section textarea {
-    width: 100%;
-    max-width: 600px;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.contact-section button {
-    background-color: #2d7c31;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1.1rem;
-}
-
-.contact-section button:hover {
-    background-color: #1b5c26;
-}
-
 /* Rodapé */
 footer {
-    background-color: #2d7c31;
+    background-color: #2a7d3f;
     color: white;
     padding: 20px 0;
     text-align: center;
