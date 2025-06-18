@@ -9,7 +9,7 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    color: #da41cd;
+    background-color: #c73fa5; /* Cor verde campo */
     background-color: #f4f4f4;
 }
 
