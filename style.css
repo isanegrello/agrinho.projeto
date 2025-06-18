@@ -9,7 +9,7 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #d444c8; /* Cor verde campo */
+    background-color: #e276d9; /* Cor verde campo */
     background-color: #f4f4f4;
 }
 
@@ -84,7 +84,7 @@ header nav ul li a:hover {
     margin: 20px 10px;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(216, 164, 236, 0.1);
 }
 
 .tech-card img {
