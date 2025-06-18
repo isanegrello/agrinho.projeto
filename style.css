@@ -123,12 +123,12 @@ header nav ul li a:hover {
 
 .contact-section p {
     font-size: 1.1rem;
-    color: #f8d3ff;
+    color: #e159fc;
 }
 
 /* Rodapé */
 footer {
-    background-color: #fedbff;
+    background-color: #efa1f1;
     color: white;
     padding: 20px 0;
     text-align: center;
