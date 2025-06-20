@@ -9,13 +9,13 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #e276d9; /* Cor verde campo */
+    background-color: #3f2e92; /* Cor verde campo */
     background-color: #f4f4f4;
 }
 
 /* Cabeçalho */
 header {
-    background-color: #c73fa5; /* Cor verde campo */
+    background-color: #0d5388; /* Cor verde campo */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -62,12 +62,12 @@ header nav ul li a:hover {
 
 .about-section p {
     font-size: 1.1rem;
-    color: #d774e4;
+    color: #7474e4;
 }
 
 /* Seção Tecnologia */
 .tech-section {
-    background-color: #eb7df3;
+    background-color: #7d87f3;
     padding: 50px 20px;
     text-align: center;
 }
@@ -100,13 +100,13 @@ header nav ul li a:hover {
 
 .tech-info h3 {
     font-size: 1.5rem;
-    color: #d76df1;
+    color: #6d81f1;
     margin-bottom: 10px;
 }
 
 .tech-info p {
     font-size: 1rem;
-    color: #ffa3ff;
+    color: #6d5dd0;
 }
 
 /* Seção Contato */
@@ -123,12 +123,12 @@ header nav ul li a:hover {
 
 .contact-section p {
     font-size: 1.1rem;
-    color: #ed91ff;
+    color: #7e4bf5;
 }
 
 /* Rodapé */
 footer {
-    background-color: #efa1f1;
+    background-color: #5e45c0;
     color: white;
     padding: 20px 0;
     text-align: center;
