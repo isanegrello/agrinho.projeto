@@ -84,7 +84,7 @@ header nav ul li a:hover {
     margin: 20px 10px;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(216, 164, 236, 0.1);
+    box-shadow: 0 4px 8px rgba(232, 222, 236, 0.1);
 }
 
 .tech-card img {
