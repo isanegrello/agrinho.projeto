@@ -76,7 +76,7 @@ header nav ul li a:hover {
 
 .about-text p {
   font-size: 1.1rem;
-  color: #7474e4;
+  color: #2727ba;
 }
 
 .about-video {
@@ -130,7 +130,7 @@ header nav ul li a:hover {
 }
 
 .tech-info h3 a {
-  color: #6d81f1;
+  color: #2338b0;
   text-decoration: none;
   transition: color 0.3s;
 }
